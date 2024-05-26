@@ -1,4 +1,4 @@
-# BlankOn 12 Verbeek MODIFIKASI
+# BlankOn 12 Verbeek
 
 ## Tentang Verbeek
 
